@@ -1,0 +1,17 @@
+GLOBALS - NO WINDOW !!!!!!
+
+__dirname - path to current directory
+__filename - __filename
+require - function to use modules (CommonJS)
+module - info about current module (file)
+process - info about env where the program is being executed
+
+
+(i)modules
+-Every file is module
+-package , dependencies ,modules meanse same and these words  used interchangeably
+(ii) Built in modules
+-OS
+-path
+-FS
+-HTTP 
